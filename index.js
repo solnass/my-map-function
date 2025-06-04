@@ -8,4 +8,4 @@ function myMap(cbFn) {
     };
 }
 
-MediaSourceHandle.exports = myMap;
+module.exports = myMap;
